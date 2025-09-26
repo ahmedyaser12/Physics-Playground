@@ -43,7 +43,7 @@ flutter run
 
 📸 Demo
 
-Add a screenshot or GIF here once you run the app to showcase the drag & drop interaction.
+![video1-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/1cded7b8-d1ed-4031-a2a0-7fcd3c181dc5)
 
 🛠️ Tech Stack
 
