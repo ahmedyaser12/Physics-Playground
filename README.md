@@ -1,4 +1,4 @@
-# Interactive Physics Widget 🎮⚡
+# Physics Playground 🎮⚡
 
 A Flutter project that demonstrates a **drag & drop mini physics simulation** using  
 `Draggable` and `DragTarget` widgets.  
@@ -30,10 +30,10 @@ Users can drag colored balls into matching colored containers with fun visual fe
 ### Run the project
 
 # Clone the repository
-git clone https://github.com/your-username/interactive_physics_widget.git
+git clone https://github.com/ahmedyaser12/Physics-Playground.git
 
 # Navigate into the project
-cd interactive_physics_widget
+cd Physics-Playground
 
 ## Get dependencies
 flutter pub get
@@ -65,4 +65,4 @@ Flutter Cookbook
 
 Built with ❤️ using Flutter.
 
-Your AHMED YASER / GitHub Profile Link
+Your AHMED YASER
